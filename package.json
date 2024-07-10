@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@pinata/sdk": "^2.1.0",
+    "exports": "^0.0.1",
+    "ipfs-http-client": "^60.0.1"
+  }
+}
